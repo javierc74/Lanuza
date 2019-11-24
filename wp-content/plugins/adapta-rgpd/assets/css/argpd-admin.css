@@ -1,0 +1,87 @@
+/* description */
+.description {
+  font-weight: normal;
+}
+
+/* argpd UI */
+
+.argpd-view {
+padding-left: 40px;
+}
+
+.argpd-switch {
+  position: relative;
+  display: inline-block;
+  width: 30px; 
+  height: 17px;
+  margin-right: 6px;
+}
+
+/* Hide default HTML checkbox */
+.argpd-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.argpd-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.argpd-slider:before {
+  position: absolute;
+  content: "";
+  height: 13px;
+  width: 13px;
+  left: 2px; 
+  bottom: 2px; 
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .argpd-slider {
+  background-color: #00C853;
+}
+
+input:focus + .argpd-slider {
+  box-shadow: 0 0 1px #00C853;
+}
+
+input:checked + .argpd-slider:before {
+  -webkit-transform: translateX(13px);
+  -ms-transform: translateX(13px);
+  transform: translateX(13px);
+}
+
+/* Rounded sliders */
+.argpd-slider.argpd-round {
+  border-radius: 34px;
+}
+
+.argpd-slider.argpd-round:before {
+  border-radius: 50%;
+}
+
+
+div.argpd-message {
+    border-left-color: #ef8f1d;
+}
+
+.argpd-message {
+  background: #fff;
+  border-left: 4px solid #fff;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  margin: 5px 15px 2px;
+  padding: 1px 12px;
+}
+

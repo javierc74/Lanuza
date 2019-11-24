@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cresta WhatsApp Chat\n"
+"POT-Creation-Date: 2018-04-27 14:45+0100\n"
+"PO-Revision-Date: 2018-04-27 14:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cresta-whatsapp-chat-metabox.php:15
+msgid "Cresta WhatsApp Chat"
+msgstr ""
+
+#: cresta-whatsapp-chat-metabox.php:31
+msgid "Hide Cresta WhatsApp Chat in this page?"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:31
+msgid "Cresta WhatsApp Chat Settings"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:36
+msgid "Settings"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:44
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:372
+msgid "See Details: Cresta WhatsApp Chat PRO"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:372
+msgid "Upgrade to PRO version!"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:373
+msgid "Cresta WhatsApp Chat FREE"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:387
+msgid "Choose Box Style"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:412
+msgid "General Box Settings"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:416
+msgid "Use the plugin with:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:420
+msgid "WhatsApp number"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:423
+msgid "WhatsApp group"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:426
+msgid ""
+"Choose to use the plugin to write with your users via WhatsApp number or "
+"invite the user to join in a WhatsApp Group."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:430
+msgid "Your WhatsApp Number:"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: cresta-whatsapp-chat.php:436
+#, php-format
+msgid ""
+"Add your phone number with the country code, take a look at %1$s this page "
+"%2$s to find the correct country code."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:442
+msgid "WhatsApp ID Group:"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: cresta-whatsapp-chat.php:448
+#, php-format
+msgid ""
+"Add the WhatsApp group ID where you want to invite users, take a look at "
+"%1$s this page %2$s to know how to get the group ID."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:454
+msgid "Box Text:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:457
+msgid "Leave it blank if you do not want to use the box text."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:461
+msgid "Placeholder Text:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:464
+msgid "Leave it blank if you do not want to show placeholder text."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:468
+msgid "Send button:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:474
+msgid "Close the floating box by clicking anywhere on the page:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:480
+msgid "Title and send button color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:482 cresta-whatsapp-chat.php:488
+#: cresta-whatsapp-chat.php:494 cresta-whatsapp-chat.php:500
+#: cresta-whatsapp-chat.php:506 cresta-whatsapp-chat.php:519
+#: cresta-whatsapp-chat.php:525 cresta-whatsapp-chat.php:602
+#: cresta-whatsapp-chat.php:608 cresta-whatsapp-chat.php:614
+#: cresta-whatsapp-chat.php:620 cresta-whatsapp-chat.php:626
+#: cresta-whatsapp-chat.php:632 cresta-whatsapp-chat.php:638
+#: cresta-whatsapp-chat.php:680 cresta-whatsapp-chat.php:686
+msgid "PRO Version"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:486
+msgid "Title and send button background color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:492
+msgid "Textarea color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:498
+msgid "Textarea placeholder color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:504
+msgid "Textarea background color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:510
+msgid "Boz Z-Index:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:513
+msgid ""
+"Increase this number if the box is covered by other items on the screen."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:517
+msgid "Box Width:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:523
+msgid "Box Height:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:529
+msgid "Show WhatsApp button:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:532
+msgid "Both mobile and desktop"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:533
+msgid "Only on mobile"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:534
+msgid "Only on desktop"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:540
+msgid "Floating Box"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:544
+msgid "Show floating box"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:550
+msgid "Show the floating box on"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:556
+msgid "Home page"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:559
+msgid "Blog page"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:563
+msgid "WooCommerce Shop page"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:567
+msgid "Category pages"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:570
+msgid "Tag pages"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:573
+msgid "Author pages"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:576
+msgid "Date pages"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:579
+msgid "Search pages"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:596
+msgid ""
+"If active, post, page and custom post type can be managed individually via "
+"metabox when you edit a page or post. You can choose to hide the WhatsApp "
+"box in a specific post, page or custom post type."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:600
+msgid "Icon color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:606
+msgid "Icon background:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:612
+msgid "Icon animation:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:618
+msgid "Icon position:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:624
+msgid "Distance from left/right:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:630
+msgid "Distance from top/bottom:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:636
+msgid "Tooltip text:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:643
+msgid "Shortcode and PHP code"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:647
+msgid "Attributes for shortcode and PHP code"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:649
+msgid "The text you want to display in the button"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:650
+msgid ""
+"Choose whether to display the WhatsApp icon next to the text (yes or no)"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:651
+msgid ""
+"The position of the box after the user has clicked on the button (top, "
+"bottom, left or right)"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:652
+msgid ""
+"If you want to use the shortcode to add a phone number, or if you want to "
+"invite users to join to a group. (number or group) "
+msgstr ""
+
+#: cresta-whatsapp-chat.php:653
+msgid ""
+"Use it if the \"use\" option is set to \"number\" - Use it if you want to "
+"use a different phone number than the one used in the plugin options page."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:654
+msgid ""
+"Use it if the \"use\" option is set to \"group\" - Use it if you want to use "
+"a different ID WhatsApp Group than the one used in the plugin options page."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:658
+msgid "Shortcode"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:660
+msgid ""
+"You can place the shortcode in posts or pages you want to display the "
+"WhatsApp button:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:666
+msgid "PHP Code"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:668
+msgid ""
+"If you want to add the WhatsApp button in the theme code you can use this "
+"PHP code:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:678
+msgid "Button color:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:684
+msgid "Button background:"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:701
+msgid "Rate it!"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:707
+msgid "Rate Cresta WhatsApp Chat on Wordpress Plugins Directory"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:707
+msgid "Rate Cresta WhatsApp Chat"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:713
+msgid "Need More? Get the PRO version"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:718
+msgid "Change position of the box button"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:719
+msgid "Choose up to 3 box styles"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:720
+msgid "Change colors of the button, shortcode and text"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:721
+msgid "Add tooltip on the box button"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:722
+msgid "Change box size"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:723
+msgid "WhatsApp widget"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:724
+msgid "4 Click animations and 9 icon animations"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:725
+#, php-format
+msgid "20% discount code for all CrestaProject Themes"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:726
+msgid "1 year updates and support"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:727
+msgid "and Much More..."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:729
+msgid "More Details"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:734
+msgid "Cresta Social Share Counter Plugin"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:737
+msgid ""
+"Share your posts and pages quickly and easily with Cresta Social Share "
+"Counter showing the share count."
+msgstr ""
+
+#: cresta-whatsapp-chat.php:738
+msgid "Cresta Social Share Counter"
+msgstr ""
+
+#: cresta-whatsapp-chat.php:738
+msgid "Available in FREE and PRO version"
+msgstr ""

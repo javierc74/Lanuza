@@ -1,0 +1,80 @@
+body {
+    padding: 5px 10px;
+    // No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+    //@include media-breakpoint-up(sm) { ... }
+    @include media-breakpoint-up(md) { 
+        padding: 10px 25px;
+    }
+    @include media-breakpoint-up(lg) { 
+        padding: 15px 50px;
+    }
+    //@include media-breakpoint-up(xl) { ...
+}
+.navbar-brand img{
+    width: 150px;
+}
+
+#main-menu{
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: .7px;
+    font-size: 70%;
+    .dropdown-menu {
+        font-size: inherit;
+        text-transform: uppercase;
+    letter-spacing: .7px;
+    .dropdown-item {
+        font-weight: 900;
+       }
+       
+    }
+}
+#wrapper-hero{
+    .carousel {
+        .carousel-item{
+            display: block;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 370px;
+            img {
+                max-width: unset;
+                bottom: 0;
+                position: absolute;
+                width: auto;
+                height: 100%;
+                left: 50%;
+                right: auto;
+                -ms-transform: translateX(-50%);
+                transform: translateX(-50%);
+            }
+            @include media-breakpoint-up(md) { 
+                padding-bottom: 500px;
+            }
+            @include media-breakpoint-up(lg) { 
+                padding-bottom: 570px;
+            }
+        }
+    }
+}
+#wrapper-static-hero {
+    background-color: transparent;  
+}
+
+small, .small {
+	font-size: 40%;
+	font-weight: 900;
+}
+
+/*Whatsapp*/
+@media (max-width: 600px){
+    .cresta-whatsapp-chat-box svg#whatsapp-msng-icon {
+        width: 37px;
+        height: 37px;
+        top: 4px;
+        left: 4px;
+    }
+}
+/*GDPR*/
+.argpd-footer {
+	position: relative;
+}
